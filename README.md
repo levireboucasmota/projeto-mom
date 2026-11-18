@@ -62,7 +62,7 @@ O painel de administração fica em http://localhost:15672 (usuário `guest`, se
 ## Instalação
 
 ```powershell
-git clone https://github.com/SEU_USUARIO/projeto-mom.git
+git clone https://github.com/levireboucasmota/projeto-mom.git
 cd projeto-mom
 python -m venv venv
 .\venv\Scripts\Activate.ps1
